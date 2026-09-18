@@ -1,8 +1,8 @@
 class Taskman < Formula
   desc "Memory-first process manager for macOS with group kill"
   homepage "https://github.com/codyaverett/taskman"
-  url "https://github.com/codyaverett/taskman/archive/refs/tags/v0.2.0.tar.gz"
-  sha256 "0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5"
+  url "https://github.com/codyaverett/taskman/archive/refs/tags/v0.2.1.tar.gz"
+  sha256 "424806f65e84d8424aa24b04d6b2be6072491661b3e1259c3b61d1112600ed92"
   license "MIT"
   head "https://github.com/codyaverett/taskman.git", branch: "main"
 
